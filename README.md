@@ -3,7 +3,7 @@
 
 ### Student Information
 - Name: Reuyan, Alwyn Jade
-- Course and Section:  BSCA 
+- Course and Section:  BSCA - B186
 - Instructor: Ma. Fe Bahinting
 - Date Submitted: December 10, 2026
 
